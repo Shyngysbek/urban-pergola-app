@@ -103,6 +103,10 @@ const NavMenu = styled.div`
       white-space: nowrap;
       position: relative;
 
+      @media (max-width:768px) {
+        display: none;
+      }
+
       &:before {
         background-color: #056732;
         border-radius: 0px 0px 4px 4px;

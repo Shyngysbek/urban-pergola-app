@@ -16,7 +16,7 @@ const Footer = () => {
           <p>Details:</p>
           <ul>
             <li>Industry Environmental Services</li>
-            <li>Specialties Urban greening</li>
+            <li>Specialties Urban Greening</li>
             <li>Founded in 2020</li>
           </ul>
         </Details>
