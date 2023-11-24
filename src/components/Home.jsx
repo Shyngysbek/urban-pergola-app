@@ -10,7 +10,7 @@ const Home = () => {
       <WelcomeSection>
         <h1>Urban Pergola</h1>
         <ResponsiveBackgroundImage>
-          <img className="blob" src='/images/Leherpausenhof1.jpeg' alt='blob image'></img>
+          <img className="blob" src='./images/Leherpausenhof1.jpeg' alt='blob image'></img>
         </ResponsiveBackgroundImage>
       </WelcomeSection>
       <PageDivision />
