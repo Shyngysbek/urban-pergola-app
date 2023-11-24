@@ -77,6 +77,10 @@ const NavMenu = styled.div`
     align-items: center;
     padding: 0 10px;
     text-decoration: none;
+    
+    @media (max-width:600px) {
+      padding: 0 25px;
+    }
 
     img {
       height: 20px;
@@ -103,7 +107,7 @@ const NavMenu = styled.div`
       white-space: nowrap;
       position: relative;
 
-      @media (max-width:768px) {
+      @media (max-width:600px) {
         display: none;
       }
 
